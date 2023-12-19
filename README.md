@@ -1,13 +1,13 @@
-<h3 align="left"><b>Software Engineer working in Massachusetts</b></h3>
+<h3 align="left"><b>Software Engineer working in New York</b></h3>
 
-- 🔭 Currently working with: **Kubernetes, Python, Containers, Go**
-- 🌱 Learning: **OCI, AWS**
+- 🔭 Currently working with: **Java, Python, Scalable Machine Learning**
+- 🌱 Learning: **Cloud Computing, Deep learning**, 
 
 <h3 align="left"><b>Work experience:</b></h3>
 
-- Infrastructure orchestration, Replatforming, CI pipeline
-- Backend development, schema generation
-- ETL pipeline
+- Latency optimization, Infrastructure orchestration, Replatforming
+- Backend development, system design
+- Sustaianable model scalability
 
 <h3 align="left"><b>Interested in:</b></h3>
 
