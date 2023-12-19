@@ -1,7 +1,7 @@
 <h3 align="left"><b>Software Engineer working in New York</b></h3>
 
 - 🔭 Currently focus: **Java, Python, Scalable Machine Learning**
-- 🌱 Learning: **Cloud Computing, Deep learning**, 
+- 🌱 Learning: **Cloud Computing, Deep learning** 
 
 <h3 align="left"><b>Work experience:</b></h3>
 
